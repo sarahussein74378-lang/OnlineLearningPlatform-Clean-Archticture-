@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OnlineLearningPlatform.API/OnlineLearningPlatform.API.csproj" />
+  <Project Path="OnlineLearningPlatform.BLL/OnlineLearningPlatform.BLL.csproj" />
+  <Project Path="OnlineLearningPlatform.DAL/OnlineLearningPlatform.DAL.csproj" />
+</Solution>
